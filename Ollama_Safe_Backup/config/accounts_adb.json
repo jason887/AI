@@ -1,0 +1,51 @@
+{
+  "douyin": [
+    { "uid": "1666381037", "nickname": "阿远说游戏" },
+    { "uid": "1673146985", "nickname": "老油条说" },
+    { "uid": "70859808364", "nickname": "鲨雨哟" },
+    { "uid": "76923722254", "nickname": "鲨鱼爱夏啵" },
+    { "uid": "83191617329", "nickname": "陈伯（回放剪辑王）" },
+    { "uid": "25137337020", "nickname": "儒雅马户解说" },
+    { "uid": "81104917210", "nickname": "塔姆解说" },
+    { "uid": "hu906631810", "nickname": "暖洋游戏解说" },
+    { "uid": "pp284169567", "nickname": "迷死她·伯歌" },
+    { "uid": "55234882643", "nickname": "刘西瓜皮皮" },
+    { "uid": "zj4598", "nickname": "猪酱和TA的朋友们" },
+    { "uid": "46289582444", "nickname": "陈伯记事本(剪辑回放)" },
+    { "uid": "1784933059", "nickname": "陈伯全能王（日常剪辑）" },
+    { "uid": "55770098048", "nickname": "🌈你旭弟（切片🐒）" },
+    { "uid": "24247623289", "nickname": "溏心脑浆-陈泽切片" }
+  ],
+  "kuaishou": [
+    { "uid": "Zhubodanbai666", "nickname": "蛋白" },
+    { "uid": "mengleimenglei2018", "nickname": "AG超玩会王者梦泪" },
+    { "uid": "W1360247662", "nickname": "ANBK【ANBK电竞】" },
+    { "uid": "jiutianhu", "nickname": "王者荣耀九天狐「白+」" },
+    { "uid": "BQR123123", "nickname": "不求人" },
+    { "uid": "hongfa88", "nickname": "荣耀张大仙" },
+    { "uid": "nanyanmy", "nickname": "难言言（9100电竞）" },
+    { "uid": "www0-0www", "nickname": "王小歪 ✨ 和平精英" },
+    { "uid": "tingan666", "nickname": "王者荣耀听安·边路之怪" },
+    { "uid": "hrj20011221", "nickname": "王者荣耀桑杰" },
+    { "uid": "wangzhexino", "nickname": "要爆炸的老赫晨☁️游戏直播" },
+    { "uid": "w5556666", "nickname": "王者荣耀王小贱·福利主播" },
+    { "uid": "Kslala666", "nickname": "王者荣耀辣辣🌸（舜家）" },
+    { "uid": "xx6892530", "nickname": "酷二狗g" },
+    { "uid": "tianci666", "nickname": "CHEN天赐〽️王者荣耀" },
+    { "uid": "616602646", "nickname": "牧童 🐮 小童电竞" }
+  ],
+  "xiaohongshu": [
+    { "uid": "P16800", "nickname": "痞欠先生" },
+    { "uid": "95384837072", "nickname": "芭比小郭" }
+  ],
+  "bilibili": [
+    { "uid": "4162287", "nickname": "B站待定" },
+    { "uid": "546195", "nickname": "B站待定" },
+    { "uid": "2206456", "nickname": "B站待定" },
+    { "uid": "1577804", "nickname": "B站待定" },
+    { "uid": "1958342", "nickname": "B站待定" },
+    { "uid": "672342685", "nickname": "B站待定" },
+    { "uid": "168598", "nickname": "B站待定" }
+  ]
+}
+

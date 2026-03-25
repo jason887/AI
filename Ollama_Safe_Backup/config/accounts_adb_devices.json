@@ -1,0 +1,19 @@
+{
+  "douyin": {
+    "device_id": "192.168.10.179:34543",
+    "accounts_ref": "accounts_adb.json:douyin"
+  },
+  "kuaishou": {
+    "device_id": "c43451370a20",
+    "accounts_ref": "accounts_adb.json:kuaishou"
+  },
+  "xiaohongshu": {
+    "device_id": "c43451370a20",
+    "accounts_ref": "accounts_adb.json:xiaohongshu"
+  },
+  "bilibili": {
+    "device_id": "API",
+    "accounts_ref": "accounts_adb.json:bilibili"
+  }
+}
+
